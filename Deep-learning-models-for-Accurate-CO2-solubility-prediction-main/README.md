@@ -1,0 +1,2 @@
+# Deep-learning-models-for-Accurate-CO2-solubility-prediction
+worked on deep learning models (ANN and LSTM) to predict CO₂ solubility in ionic liquids using 10,116 experimental data points across varying temperatures and pressures. Achieved high accuracy (R² ≈ 0.99), with ANN offering ~30× faster computation, and performed sensitivity analysis to identify key influencing parameters for CO₂ capture
